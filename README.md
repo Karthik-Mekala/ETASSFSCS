@@ -124,8 +124,8 @@ The KGC accepts and sends the user the file details, including the file name, fi
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/kgcAcceptUserFileDownloadRequest1.png" alt="kgcAcceptUserFileDownloadRequest1.png">
 
 #### ***II. File Details*** :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/mail%20file%20details1.png" alt="mail file details1.png">
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/mail%20file%20details.png" alt="mail file details.png">
+<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/mail%20file%20details1.png" alt="mail file details1.png">
 
 #### ***III. Download Files Page*** :
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/userDownloadFiles1.png" alt="userDownloadFiles1.png">
