@@ -29,7 +29,7 @@ In terms of future enhancements for such a system, advanced features could be im
 
 
 ### Step-1 :
-The proposed system involves a secure cloud-based file management solution with multi-level access control. The system comprises a home page, which serves as the initial landing page that provides an abstract, introduction, and details about the organization.
+The proposed system involves a secure cloud-based file management solution with multi-level access control. The system comprises a home page, which serves as the initial landing page that provides an abstract, introduction, and Get In Touch details.
 
 <img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home1.png" alt="home1.png">
 <img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home2.png" alt="home2.png">
