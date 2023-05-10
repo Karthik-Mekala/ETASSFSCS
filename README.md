@@ -1,5 +1,16 @@
-# ETASSFSCS
-***Efficient Traceable Authorized Search System for Secure Cloud Storage*** 😄
+# Efficient Traceable Authorized Search System for Secure Cloud Storage
+***ETASSFSCS*** 😄
+
+As an example, let us consider a multinational software company such as TCS with branches located in various regions across the world. For the purpose of illustration, we can focus on two of its branches located in Bangalore and Hyderabad, India, respectively. Suppose that you are currently employed in the finance department of the Bangalore branch, while your friend works in the technical department of the Hyderabad branch.
+
+If your friend requests that you obtain and share technical department-related files from your own branch's database, this would be a violation of company policy and may be considered illegal. Despite your friendship, it is imperative that you adhere to the company's regulations and not share any information that you are not authorized to access.
+
+To address such situations, an Efficient Traceable Authorized Search System for Secure Cloud Storage can be implemented to prevent unauthorized access to data. The system can be designed to restrict access to only authorized personnel and specific data within their designated departments. In this example, the system would allow you to access only finance department-related files uploaded by your higher authorities, and not technical department-related files from your branch or any other branch.
+
+In terms of future enhancements for such a system, advanced features could be implemented to further enhance security and efficiency. For instance, machine learning algorithms could be utilized to automatically detect and prevent potential breaches or security threats. Additionally, the system could be designed to provide real-time monitoring and alerts for any unauthorized access attempts or suspicious activities. These enhancements would ensure that the system is continuously adapting to evolving security threats, and providing an even more secure and efficient cloud storage solution.
+
+- [Download Required Softwares](https://www.dropbox.com/s/ktcw6t9qjp347kf/Softwares%20Required.zip?dl=0)
+- [Download Code](https://www.dropbox.com/sh/8304d6zk7akpl20/AADnEjFCwZ6t5uZU2wakAnfXa?dl=0)
 #
 
 ### Team :
@@ -10,13 +21,10 @@
 - [Naga Lakshmi]()
 - [Mahendra Kumar Reddy]()
 
-# <p align="left">TLTR :stuck_out_tongue_winking_eye: Check the <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Final%20Year%20Project%20PPT.pptx"> PPT</a> or <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Documentation/Team%20Documentation/Documentation.pdf">Documentation</a></p>
+# <p align="left">TLTR :stuck_out_tongue_winking_eye: Check the <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Final%20Year%20Project%20PPT.pptx"> PPT</a> and <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Documentation/Team%20Documentation/Documentation.pdf">Documentation</a></p>
 
 
 ## How it works :
-- [Download Softwares](https://www.dropbox.com/s/ktcw6t9qjp347kf/Softwares%20Required.zip?dl=0)
-- [Download Code](https://www.dropbox.com/sh/8304d6zk7akpl20/AADnEjFCwZ6t5uZU2wakAnfXa?dl=0)
-
 
 
 ### Step-1 :
@@ -146,3 +154,11 @@ For KGC, managing all owners, users, and available files in the database or clou
 <img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/cloudViewFilesList.png" alt="cloudViewFilesList.png">
 
 
+
+## Tech Stack :
+- Java Programming Language
+- HTML, CSS & JavaScript.
+- NetBeans (IDE used for Frontend & Backend)
+- MySQL
+- SQLyog (IDE used for MySQL)
+- GlassFish Server & Apache Tom Cat Server
