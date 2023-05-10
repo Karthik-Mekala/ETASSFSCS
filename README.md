@@ -140,7 +140,7 @@ The KGC accepts and sends the user the file details, including the file name, fi
 
 
 ## Note :
-For KGC, managing all owners, users, and available files in the database or cloud can be challenging. Hence, the cloud page provides a solution where KGC can see all necessary details in one place instead of accessing the database or cloud repeatedly. The cloud restricts users and owners from obtaining unauthorized access to information, such as passwords, by only displaying essential details.
+For KGC, managing all owners, users, and available files in the database or cloud can be challenging. Hence, the cloud page provides a solution where KGC can see all necessary details in one place instead of accessing the database or cloud repeatedly. The cloud restricts users and owners from obtaining unauthorized access to information, such as passwords, by only displaying essential details even if they know cloud login credentials.
 
 #### ***I. Cloud Login Page*** :
 <img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/cloud.png" alt="cloud.png">
