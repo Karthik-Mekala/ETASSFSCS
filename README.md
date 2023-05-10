@@ -26,28 +26,6 @@ The proposed system involves a secure cloud-based file management solution with 
 <img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home2.png" alt="home2.png">
 <img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home3.png" alt="home3.png">
 <img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home4.png" alt="home4.png">
-<!-- <table>
-  <tr>
-    <th><img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home1.png" alt="Home Page"></th>
-    <th><img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home2.png" alt="Home Page"></th>
-  </tr>
-</table> -->
-
-
-<!-- ### Step-2 : -->
-<!-- The Key Generation Center (KGC) page is an administrative page that facilitates access control. The KGC is responsible for granting access to newly registered owners and users and providing three-step verification, which includes public and private keys, file details, and One-Time Password (OTP).
-
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/kgc.png" alt="KGC Login Page">
-
-#### ***1. Activate Owner***
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateOwner1.png" alt="Activate Owner">
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateOwner2.png" alt="Activate Oqner">
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateOwner3.png" alt="Activat Owner">
-
-#### ***1. Activate User***
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser1.png" alt="Activate User">
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser2.png" alt="Activate User">
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser3.png" alt="Activate User"> -->
 
 
 
@@ -81,7 +59,7 @@ Once an owner logs in, they can access internal pages, such as uploading files i
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/ownerUploadFiles.png" alt="ownerUploadFiles.png">
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/ownerUploadFiles1.png" alt="ownerUploadFiles1.png">
 
-#### ***III. Encrypted Files*** :
+#### ***III. Owner's Encrypted Files*** :
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/encryptedOwnerFile.png" alt="Owner Login Page">
 
 #### ***IV. View Uploaded Files Page*** :
@@ -146,45 +124,25 @@ The KGC accepts and sends the user the file details, including the file name, fi
 #### ***IV. OTP*** :
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/mail%20otp%201.png" alt="mail otp 1.png">
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/mail%20otp%202.png" alt="mail otp 2.png">
-
-
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/userDownloadFiles2.png" alt="userDownloadFiles2.png">
+
+#### ***V. Download Files*** :
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/userDownloadFiles3.png" alt="userDownloadFiles3.png">
 
 
-### Note :
+## Note :
 For KGC, managing all owners, users, and available files in the database or cloud can be challenging. Hence, the cloud page provides a solution where KGC can see all necessary details in one place instead of accessing the database or cloud repeatedly. The cloud restricts users and owners from obtaining unauthorized access to information, such as passwords, by only displaying essential details.
 
+#### ***I. Cloud Login Page*** :
+<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/cloud.png" alt="cloud.png">
+
+#### ***II. View Owners List Page*** :
+<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/cloudViewOwnersList.png" alt="cloudViewOwnersList.png">
+
+#### ***III. View Users List Page*** :
+<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/cloudViewUsersList.png" alt="cloudViewUsersList.png">
+
+#### ***III. View All Available Files List Page*** :
+<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/cloudViewFilesList.png" alt="cloudViewFilesList.png">
 
 
-
-
-<!-- ### ***Home Page*** :
-<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home1.png" alt="Home Page">
-<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home2.png" alt="Home Page">
-<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home3.png" alt="Home Page">
-<img src="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/home4.png" alt="Home Page">
-
-
-## ***Owner Page*** :
-
-##### 1. Owner Login Page :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/dataOwner.png" alt="Data Owner Login Page">
-
-##### 2. Owner Registration Page :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/ownerReg.png" alt="Data Owner Registration Page">
-
-
-## ***User Page*** :
-
-##### 1. User Login Page :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/dataUser.png" alt="Data User Login Page">
-
-##### 2. User Registration Page :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/userReg.png" alt="Data User Registration Page">
-
-## ***KGC Page*** :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/kgc.png" alt="KGC Login Page">
-
-## ***Cloud Page*** :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/cloud.png" alt="Cloud Login Page"> -->
