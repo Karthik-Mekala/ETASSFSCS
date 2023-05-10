@@ -59,7 +59,7 @@ The Key Generation Center (KGC) page is an administrative page that facilitates 
 
 
 ### Step-4 :
-Once an owner logs in, they can access internal pages, such as uploading files into the cloud, which is stored in a local database. The uploaded files are encrypted in cipher text to ensure that they are secure and cannot be accessed by unauthorized users. Owners can view all the uploaded files from the view uploaded files page.
+Once an owner logs in, they can access internal pages, such as uploading files into the cloud. The uploaded files are encrypted in cipher text to ensure that they are secure and cannot be accessed by unauthorized users. Owners can view all the uploaded files from the view uploaded files page.
 
 #### ***I. Owner Login Page*** :
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/ownerLogin.png" alt="ownerLogin.png">
