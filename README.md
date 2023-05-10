@@ -69,10 +69,10 @@ Once an owner logs in, they can access internal pages, such as uploading files i
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/ownerUploadFiles1.png" alt="ownerUploadFiles1.png">
 
 #### ***III. Owner's Encrypted Files*** :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/encryptedOwnerFile.png" alt="Owner Login Page">
+<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/encryptedOwnerFile.png" alt="encryptedOwnerFile.png">
 
 #### ***IV. View Uploaded Files Page*** :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/ownerViewUploadedFiles.png" alt="Owner Login Page">
+<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/ownerViewUploadedFiles.png" alt="ownerViewUploadedFiles.png">
 
 
 
@@ -86,13 +86,13 @@ Now, Users can register on the user registration page using the same multi-keywo
 ### Step-6 :
 The Key Generation Center (KGC) page is an administrative page that facilitates access control. The KGC is responsible for granting access to newly registered users and providing three-step verification, which includes public and private keys, file details, and One-Time Password (OTP).
 
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/kgc.png" alt="KGC Login Page">
+<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/kgc.png" alt="kgc.png">
 
 
 #### ***Activate User*** :
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser1.png" alt="Activate User">
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser2.png" alt="Activate User">
-<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser3.png" alt="Activate User">
+<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser1.png" alt="activateUser1.png">
+<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser2.png" alt="activateUser2.png">
+<img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/activateUser3.png" alt="activateUser3.png">
 
 
 ### Step-7 :
