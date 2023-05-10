@@ -117,7 +117,7 @@ If the user and owner have equal multi-keyword attributes, the user can request 
 
 
 ### Step-9 :
-The KGC accepts and sends the user the file details, including the file name, file key, file ID, and owner parse key, via email. To download the file, the user must enter the correct file details & OTP on the download files page.
+The KGC accepts and sends the user the file details, including the file name, file key, file ID, and owner parse key, via email. To download the file, the user must enter the correct file details & OTP in the download files page.
 
 #### ***I. KGC Accepting User Request*** :
 <img src = "https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/screenshots/kgcAcceptUserFileDownloadRequest.png" alt="kgcAcceptUserFileDownloadRequest.png">
