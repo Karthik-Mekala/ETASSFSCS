@@ -21,7 +21,8 @@ In terms of future enhancements for such a system, advanced features could be im
 - [Naga Lakshmi]()
 - [Mahendra Kumar Reddy]()
 
-# <p align="left">TLTR :stuck_out_tongue_winking_eye: Check the <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Final%20Year%20Project%20PPT.pptx"> PPT</a> and <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Documentation/Team%20Documentation/Documentation.pdf">Documentation</a></p>
+
+# <p align="center">TLTR :stuck_out_tongue_winking_eye: Check the <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Final%20Year%20Project%20PPT.pptx"> Presentation</a> and <a href="https://github.com/Karthik-Mekala/ETASSFSCS/blob/main/Documentation/Team%20Documentation/Documentation.pdf">Documentation</a></p>
 
 
 ## How it works :
