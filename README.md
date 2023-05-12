@@ -17,7 +17,7 @@ In terms of future enhancements for such a system, advanced features could be im
 
 - [Karthik](https://github.com/Karthik-Mekala)
 - [Mahaboob Basha](https://github.com/Mmabhu)
-- [Bindu Shruthika]()
+- [Bindu Shruthika](https://github.com/bindhushruthika)
 - [Naga Lakshmi]()
 - [Mahendra Kumar Reddy]()
 
